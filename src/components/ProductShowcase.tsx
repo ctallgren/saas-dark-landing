@@ -29,6 +29,7 @@ export const ProductShowcase = () => {
           </p>
         </div>
         <motion.div
+          className="flex justify-center"
           style={{
             opacity: opacity,
             rotateX: rotateX,
